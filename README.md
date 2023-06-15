@@ -3,4 +3,4 @@ My goal with this personal resume-like website is to provide visitors and recrui
 
 Theme by <a href="https://github.com/afnizarnur/draco">Afnizar Nur Ghifari</a>.
 
-www.aymenkrifa.me | aymenkrifa.github.io
+www.aymenkrifa.me | www.aymenkrifa.github.io
